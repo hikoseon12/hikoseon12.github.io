@@ -3,6 +3,8 @@ https://github.com/jmbyun/personal-academic-website
 https://github.com/academicpages/academicpages.github.io
 https://www2.eecs.berkeley.edu/People/gradhomepages.html
 
+my github page: https://github.com/hikoseon12/jiseon.github.io
+
 <git download>
 git clone https://github.com/hikoseon12/hikoseon12.github.io
 git add *
