@@ -27,11 +27,11 @@
     </header>
 
     <section class="content">
-      <!--<h3>About</h3>
+      <h3>About</h3>
 	  <p>
-			I am a M.S. student in User & Information Lab, KAIST. My research interests are in 
+			I am a M.S. student in User & Information Lab, KAIST. My research interests are in machine learning and computational social science.
 	  </p>
-      <p>
+      <!--<p>
   			I am a M.S. student in User & Information Lab, KAIST. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque suscipit enim, quis pulvinar nisl.
   			Aliquam vulputate tincidunt lorem, nec condimentum dolor porta ut. Quisque sem ex, finibus quis ligula non,
   			lobortis tristique magna. Praesent nec euismod sapien. Nulla facilisis rhoncus erat in fermentum.
