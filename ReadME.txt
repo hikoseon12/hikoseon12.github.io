@@ -14,3 +14,6 @@ git push origin master
 
 in cmd,
 python -m http.server
+
+in web browser window,
+localhost:8000
